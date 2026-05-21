@@ -1,88 +1,38 @@
-👨‍💻 Desenvolvedor
+# ⚛️ FrontEndReact
 
-Robson Oliveira Gomes Junior
+Front-end moderno do projeto de plataforma de viagens desenvolvido com React.
 
-📍 Salvador - BA
-💼 LinkedIn: https://linkedin.com/in/robsonoliveira-gomes-junior-729600190
-🐙 GitHub: https://github.com/robsonjuniortj
+Este projeto representa a evolução da aplicação estática para uma arquitetura baseada em componentes.
 
+## 🚀 Tecnologias
 
----
-
-# README — Frontend (FrontEndReact)
-
-# ✈️ FrontEndReact | Site de Viagens em React
-
-Frontend desenvolvido em React durante a formação Full Stack da Recode Pro para um projeto pessoal de site de viagens integrado a uma API backend em C#.
-
-O projeto foi criado com foco em componentização, organização visual e integração entre frontend e backend utilizando API REST.
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- React.js
+- React
 - JavaScript
-- HTML5
 - CSS3
-- API REST
-- Git & GitHub
+- HTML5
 
----
+## 🎯 Objetivos
 
-## 🎯 Objetivo do Projeto
+- Aplicar componentização
+- Trabalhar arquitetura front-end moderna
+- Melhorar reutilização de código
+- Evoluir experiência do usuário
 
-Desenvolver a interface de um sistema de viagens moderno, permitindo a integração com backend e simulando uma aplicação real de mercado.
+## ✨ Funcionalidades
 
----
+- Componentes reutilizáveis
+- Navegação moderna
+- Estrutura organizada
+- Interface responsiva
 
-## ⚙️ Funcionalidades
+## 🌍 Projeto Principal
 
-✅ Interface moderna em React  
-✅ Componentização  
-✅ Integração com API backend  
-✅ Navegação entre páginas  
-✅ Estrutura SPA  
-✅ Organização visual responsiva  
+➡️ https://github.com/robsonjuniortj/SiteDeViagem
 
----
+## 🔙 Backend Integrado
 
-## 🔗 Integração com Backend
+➡️ https://github.com/robsonjuniortj/BackEndC-
 
-Backend da aplicação:
-
-👉 https://github.com/robsonjuniortj/BackEndC-
-
----
-
-## 🛠️ Como Executar o Projeto
-
-### Clone o repositório
-
-```bash
-git clone https://github.com/robsonjuniortj/FrontEndReact.git
-Acesse a pasta
-cd FrontEndReact
-Instale as dependências
-npm install
-Execute o projeto
-npm start
-```
-📚 Aprendizados
-
-Durante o desenvolvimento deste projeto, foram praticados conceitos importantes como:
-
-React.js
-Componentização
-Consumo de API
-Estruturação de aplicações SPA
-Integração Full Stack
-Organização de código frontend
-Versionamento com Git
-👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedor
 
 Robson Oliveira Gomes Junior
-
-📍 Salvador - BA
-💼 LinkedIn: https://linkedin.com/in/robsonoliveira-gomes-junior-729600190
-🐙 GitHub: https://github.com/robsonjuniortj
