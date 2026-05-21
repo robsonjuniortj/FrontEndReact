@@ -1,40 +1,88 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+👨‍💻 Desenvolvedor
 
-## Getting Started
+Robson Oliveira Gomes Junior
 
-First, run the development server:
+📍 Salvador - BA
+💼 LinkedIn: https://linkedin.com/in/robsonoliveira-gomes-junior-729600190
+🐙 GitHub: https://github.com/robsonjuniortj
+
+
+---
+
+# README — Frontend (FrontEndReact)
+
+# ✈️ FrontEndReact | Site de Viagens em React
+
+Frontend desenvolvido em React durante a formação Full Stack da Recode Pro para um projeto pessoal de site de viagens integrado a uma API backend em C#.
+
+O projeto foi criado com foco em componentização, organização visual e integração entre frontend e backend utilizando API REST.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- API REST
+- Git & GitHub
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Desenvolver a interface de um sistema de viagens moderno, permitindo a integração com backend e simulando uma aplicação real de mercado.
+
+---
+
+## ⚙️ Funcionalidades
+
+✅ Interface moderna em React  
+✅ Componentização  
+✅ Integração com API backend  
+✅ Navegação entre páginas  
+✅ Estrutura SPA  
+✅ Organização visual responsiva  
+
+---
+
+## 🔗 Integração com Backend
+
+Backend da aplicação:
+
+👉 https://github.com/robsonjuniortj/BackEndC-
+
+---
+
+## 🛠️ Como Executar o Projeto
+
+### Clone o repositório
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/robsonjuniortj/FrontEndReact.git
+Acesse a pasta
+cd FrontEndReact
+Instale as dependências
+npm install
+Execute o projeto
+npm start
 ```
+📚 Aprendizados
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Durante o desenvolvimento deste projeto, foram praticados conceitos importantes como:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+React.js
+Componentização
+Consumo de API
+Estruturação de aplicações SPA
+Integração Full Stack
+Organização de código frontend
+Versionamento com Git
+👨‍💻 Desenvolvedor
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Robson Oliveira Gomes Junior
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+📍 Salvador - BA
+💼 LinkedIn: https://linkedin.com/in/robsonoliveira-gomes-junior-729600190
+🐙 GitHub: https://github.com/robsonjuniortj
